@@ -1,2 +1,2 @@
 # docker-swarm-demo
-Deploy you application using Docker Swarm
+Deploy your application using Docker Swarm
